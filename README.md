@@ -1,0 +1,1 @@
+This project demonstrates how to use the YOLO (You Only Look Once) algorithm for real-time object detection using Python and OpenCV. It loads a pre-trained YOLO model and performs detection on images, video, or webcam streams.
